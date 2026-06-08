@@ -57,8 +57,8 @@ ollama pull llama3.2:1b
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/rag-notes
-cd rag-notes
+git clone https://github.com/panven-ops/RagNotes
+cd RagNotes
 pip install -r requirements.txt
 ```
 
