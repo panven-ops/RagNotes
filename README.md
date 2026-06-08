@@ -23,7 +23,7 @@ A local RAG (Retrieval-Augmented Generation) system for querying your own PDF no
 
 - ingest.py 
 - query.py
-- pdfs
+- pdfs #not includes, you need to add your own pdfs
 - chroma_db
 
 ## How It Works
