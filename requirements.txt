@@ -1,0 +1,5 @@
+chromadb
+fastembed
+ollama
+pymupdf
+python-dotenv
